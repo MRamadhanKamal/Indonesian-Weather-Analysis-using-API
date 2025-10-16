@@ -1,0 +1,39 @@
+kota,provinsi,latitude,longitude,waktu_lokal,suhu_c,kondisi_cuaca,kode_kondisi,icon_url,kecepatan_angin_kph,arah_angin,kelembapan,uv_index
+Banda Aceh,Aceh,5.5577,95.3222,2025-10-16 23:29,27.2,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,7.2,E,79,0.0
+Medan,North Sumatra,3.5833,98.6667,2025-10-16 23:29,27.2,Partly cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,4.0,SW,89,0.0
+Padang,West Sumatra,-0.9492,100.3543,2025-10-16 23:29,22.5,Light rain shower,1240,https://cdn.weatherapi.com/weather/64x64/night/353.png,3.6,NNE,88,0.0
+Pekanbaru,Riau,0.5333,101.45,2025-10-16 23:29,25.4,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,3.6,SE,94,0.0
+Pondok Tanjung Pinang,North Sumatra,3.021,99.5294,2025-10-16 23:11,24.4,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,4.0,W,94,0.0
+Jambi City,Jambi,-1.6,103.6167,2025-10-16 23:21,24.5,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,3.6,ENE,93,0.0
+Bengkulu,Bengkulu,-3.8004,102.2655,2025-10-16 23:21,25.4,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,8.6,ESE,87,0.0
+Palembang,South Sumatra,-2.9167,104.7458,2025-10-16 23:21,26.3,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,5.0,ESE,94,0.0
+Pinang,Pulau Pinang,5.4167,100.3333,2025-10-17 00:29,25.1,Light rain shower,1240,https://cdn.weatherapi.com/weather/64x64/night/353.png,4.3,WNW,94,0.0
+Bandar,Lampung,-5.2351,104.319,2025-10-16 23:21,24.1,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,5.0,E,93,0.0
+Serang,Banten,-6.1149,106.1502,2025-10-16 23:21,27.1,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,3.6,E,89,0.0
+Jakarta,Jakarta Raya,-6.2146,106.8451,2025-10-16 23:30,27.1,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,4.7,ENE,89,0.0
+Bandung,West Java,-6.9039,107.6186,2025-10-16 23:21,21.1,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,3.6,S,90,0.0
+Semarang,Central Java,-6.9932,110.4203,2025-10-16 23:21,24.5,Partly Cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,10.1,S,86,0.0
+Yogyakarta,Daerah Istimewa Yogyakarta,-7.7828,110.3608,2025-10-16 23:30,24.5,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,3.6,WNW,91,0.0
+Surabaya,East Java,-7.2492,112.7508,2025-10-16 23:24,29.1,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,15.5,ESE,79,0.0
+Denpasar,Bali,-8.65,115.2167,2025-10-17 00:30,28.3,Partly cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,14.0,ESE,94,0.0
+Mataram,West Nusa Tenggara,-8.5833,116.1167,2025-10-17 00:11,24.6,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,4.3,E,82,0.0
+Kupang,East Nusa Tenggara,-10.1718,123.6075,2025-10-17 00:30,26.3,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,12.6,E,77,0.0
+Pontianak,West Kalimantan,-0.0311,109.322,2025-10-16 23:30,26.2,Light rain,1183,https://cdn.weatherapi.com/weather/64x64/night/296.png,4.0,W,100,0.0
+Palangkaraya,Kalimantan Tengah,-2.2136,113.9108,2025-10-16 23:30,26.4,Partly Cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,3.6,S,83,0.0
+Banjarmasin,South Kalimantan,-3.3199,114.5908,2025-10-17 00:21,25.3,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,5.4,ESE,88,0.0
+Samarinda,East Kalimantan,-0.4859,117.1466,2025-10-17 00:11,23.3,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,3.6,SE,96,0.0
+Tanjung Selor,North Kalimantan,2.8382,117.3658,2025-10-17 00:26,23.6,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,3.6,WSW,95,0.0
+Manado,North Sulawesi,1.4822,124.8489,2025-10-17 00:30,22.3,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,6.1,SSE,100,0.0
+Palu,Central Sulawesi,-0.8917,119.8707,2025-10-17 00:30,23.4,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,4.0,SE,94,0.0
+Makassar,South Sulawesi,-5.14,119.4221,2025-10-17 00:30,25.2,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,4.7,ENE,94,0.0
+Kendari,Sulawesi Tenggara,-3.9778,122.5151,2025-10-17 00:22,23.8,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,3.6,WNW,93,0.0
+Gorontalo,Gorontalo,0.5412,123.0595,2025-10-17 00:11,21.5,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,4.0,ENE,90,0.0
+Mamuju,Sulawesi Barat,-2.6748,118.8885,2025-10-17 00:24,27.2,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,9.0,SE,77,0.0
+Ambon,Maluku,-3.6954,128.1814,2025-10-17 01:30,26.3,Partly cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,9.0,ESE,89,0.0
+Sofifi,Maluku Utara,0.7333,127.55,2025-10-17 01:30,27.0,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,4.0,SSE,78,0.0
+Manokwari,West Papua,-0.8667,134.0833,2025-10-17 01:30,25.5,Clear,1000,https://cdn.weatherapi.com/weather/64x64/night/113.png,6.1,S,79,0.0
+Nabire,Papua,-3.3599,135.5007,2025-10-17 01:30,24.2,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,5.8,S,91,0.0
+Jayapura,Papua,-2.5337,140.7181,2025-10-17 01:22,24.2,Mist,1030,https://cdn.weatherapi.com/weather/64x64/night/143.png,7.9,S,100,0.0
+Merauke,Papua,-8.4958,140.3948,2025-10-17 01:24,25.8,Cloudy,1006,https://cdn.weatherapi.com/weather/64x64/night/119.png,18.0,ESE,91,0.0
+Wamena,Papua,-3.9167,138.7333,2025-10-17 01:30,10.7,Partly Cloudy,1003,https://cdn.weatherapi.com/weather/64x64/night/116.png,3.6,SSE,95,0.0
+Sorong,West Papua,-0.8796,131.261,2025-10-17 01:30,26.1,Patchy rain nearby,1063,https://cdn.weatherapi.com/weather/64x64/night/176.png,5.0,SSE,82,0.0
